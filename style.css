@@ -14,47 +14,65 @@ body {
     font-size: 18px;
     line-height: 150%;
     color: #333;
-    background: #efeee7;
-    background-color: white;
+    background-color: grey;
+    text-align: center;
 }
 
 header {
     padding: 20px;
-    margin-bottom: 20px;
-    width: 33.3%;
-    color: #333;
-    background: #ccc;
-    background-color: #FFA500
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 120px;
+    margin-right: 120px;
+    color: blue;
+    background-color: #FFA500;
+}
+
+nav {
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 120px;
+    margin-right: 120px;
+    color: blue;
+    background-color: orange;
 }
 
 section {
-    background: #eee
-}
-
-#left {
-    background: #666
-}
-
-#middle {
-    background: #888
-}
-
-#right {
-    background: #666
-}
-
-#full {
     padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 120px;
+    margin-right: 120px;
 }
 
-#division {
-    background: #6ea3da
+ .section2 {
+    padding: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 120px;
+    margin-right: 600px;
+    color: blue;
+    background-color: orange;
 }
 
 aside {
-    background: #fff
+    padding: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 700px;
+    margin-right: 120px;
+    color: blue;
+    background-color: orange;
 }
 
 footer {
-    background: #ccc
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 120px;
+    margin-right: 120px;
+    color: blue;
+    background-color: orange;
 }
+
