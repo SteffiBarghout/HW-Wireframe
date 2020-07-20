@@ -1,0 +1,16 @@
+/* Takes in class component of div holding section and aside.
+The after refers to this style taking affect after the style
+from style.css regarding section and aside. */
+.clearfix::after {
+    content: " ";
+    display: block;
+    clear: both;
+}
+
+section {
+    float: left;
+}
+
+aside { 
+    float: left;
+}
